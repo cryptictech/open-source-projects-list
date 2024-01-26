@@ -1,0 +1,2 @@
+# Open Source Libraries
+Open source libraries are like frameworks that provide code to help bootstrap the application development process, but they are more supplimental in nature. This list is categoried by main purpose, e.g. UI components

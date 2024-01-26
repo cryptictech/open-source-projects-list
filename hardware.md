@@ -1,0 +1,2 @@
+# Open Source Hardware
+Open source hardware is the physical half of the systems all around us. Everything from phones, laptops, to single board computers have projects that give us a glimpse into the path of the electrons that run our lives. This list is categoried by platform.

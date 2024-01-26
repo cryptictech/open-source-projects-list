@@ -1,0 +1,2 @@
+# Open Source Mobile Applications
+It is facinating how such a little device that goes with us in our pockets everywhere we go has become so crucial in our daily lives, but if you think about it, it makes sense; they're convenient. Open source mobile applications serve a big role in that convenience, security, and customization. This list is categorized by purpose, e.g. communication

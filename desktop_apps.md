@@ -1,0 +1,2 @@
+# Open Source Desktop Applications
+Desktops are the power machines for getting work done. Everything from video editing, app development, content creation, system management, and much more, may have applications in mobile, but usually don't compare to what can be achieved on a desktop. Open source desktop applications play a crucial role in bringing that power to the masses. This list is categorized by purpose, e.g. video editing

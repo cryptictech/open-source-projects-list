@@ -1,0 +1,2 @@
+# Open Source Embedded and IoT Applications
+Open source embedded/IoT applications tend to make up the low level software part of open source hardware, but not in all cases. These projects are the code that make our gadgets "think." This list is categorized by application, e.g. home security.

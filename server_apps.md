@@ -1,0 +1,2 @@
+# Open Source Server Applications
+Networking is a major part of our daily computing lives, without the ability to communicate with other computers, the machines we use for daily work would be drastically limited by the power within their silicone. It would not surprise me if this grows to be the biggest list here. This list is categorized by purpose, e.g. file server.
